@@ -24,7 +24,7 @@
 | 导师.skill | [ybq22/supervisor](https://github.com/ybq22/supervisor) |
 | 师兄.skill | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | 数字人生.skill | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
-| 重逢.skills | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
+| 重逢.skill | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
 | 永生.skill | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 
 ---
