@@ -55,6 +55,7 @@
 | 费曼.skill | 学习/教学/科学思维 | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
 | 纳瓦尔.skill | 财富/杠杆/人生哲学 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
 | 塔勒布.skill | 风险/反脆弱/不确定性 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
+| 齐泽克.skill | 把你自以为想清楚了的东西，翻出你没意识到自己在默认的那一层 | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | 特朗普.skill | 谈判/权力/传播/行为预判 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 产品/组织/全球化/人才 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
