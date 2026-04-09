@@ -12,7 +12,23 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 ## 📦 Skill List
 
-**📑 Contents:** [💼 Workplace & Academia](#-workplace--academia) · [❤️ Relationships](#-relationships) · [🌟 Self-Development](#-self-development) · [💡 Business Mindset](#-business-mindset) · [📱 Internet Celebrities](#-internet-celebrities) · [🙏 Traditional Culture & Philosophy](#-traditional-culture--philosophy) · [🌈 Emotional Companionship](#-emotional-companionship) · [🛠️ Tools](#️-tools)
+**📑 Contents:** 
+
+[💼 Workplace & Academia](#-workplace--academia) 
+
+[❤️ Relationships](#-relationships) 
+
+[🌟 Self-Development](#-self-development) 
+
+[💡 Business Mindset](#-business-mindset) 
+
+[📱 Internet Celebrities](#-internet-celebrities) 
+
+[🙏 Traditional Culture & Philosophy](#-traditional-culture--philosophy) 
+
+[🌈 Emotional Companionship](#-emotional-companionship)
+
+[🛠️ Tools](#️-tools)
 
 ### 💼 Workplace & Academia
 
