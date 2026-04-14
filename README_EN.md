@@ -49,6 +49,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Her.skill](https://github.com/ceetity/her-skill) - All logical branches eventually recurse back to her name
 - [Parents.skill](https://github.com/xiaoheizi8/parents-skills) - Every conversation is companionship across time and space
 - [Brother.skill](https://github.com/realteamprinz/brother-skill) - Turn cold goodbyes into warm Skills — welcome to cyber brotherhood immortality
+- [love.skill](https://github.com/YuzeHao2023/love-skill) - Before entering a formal relationship, first distill a cyber romance between both sides—consuming AI tokens to save real human tokens.
 
 ### Self-Development
 
